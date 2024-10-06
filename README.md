@@ -58,13 +58,9 @@ To use this code, you will need the following:
 5. **Run the Script**:
    Run the script using Python:
    ```bash
-<<<<<<< HEAD
-   python script_name.py
-=======
    python main.py
->>>>>>> 2e2cc22bdd24923b994ba002e26aeb9e33aa886e
    ```
-
+   
    You will be prompted to input the date (in `YYYY-MM-DD` format) for which you want to generate the playlist.
 
 ## Example Usage
@@ -86,10 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributions
 
 Feel free to open issues or submit pull requests if you would like to contribute to this project.
-<<<<<<< HEAD
-
----
-
-This README file provides an overview of your project, explains how it works, and gives clear setup instructions for users. You can adapt it further to include specific details about your repository.
-=======
->>>>>>> 2e2cc22bdd24923b994ba002e26aeb9e33aa886e
