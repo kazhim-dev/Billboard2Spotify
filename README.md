@@ -46,6 +46,7 @@ To use this code, you will need the following:
 3. **Create a Spotify App**:
    - Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and create a new application.
    - Once your app is created, note down the `Client ID` and `Client Secret`.
+   - **Important**: When creating the app, make sure to set the redirect URI to http://example.com. This is required for the Spotify authentication process.
 
 4. **Environment Variables**:
    - Create a `.env` file in the root directory of your project.
